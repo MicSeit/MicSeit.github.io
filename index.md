@@ -19,13 +19,7 @@
 
 ### Google Data Analytics Capstone
 
-- [Case Study: How Does a Bike-Share Navigate Speedy Success?]
-    (Link for the Presentation:
-- https://1drv.ms/b/s!Ampl2l5jBrzugP577Uc3KGvXPbfNqQ?e=S0zWrN
-
-Link for the Dashboard:
-- https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+- [Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/MicSeit/Google-Professional-Certificates/tree/main/Data%20Analytics/Project%201)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
