@@ -11,7 +11,7 @@
 
 ### Google Data Analytics Projects
 
-[Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/MicSeit/data_projects/tree/main/google_data_analytics/bike_share)🚲
+[🚲 How Does a Bike-Share Navigate Speedy Success?](https://github.com/MicSeit/data_projects/tree/main/google_data_analytics/bike_share)
 
 
 ---
