@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Yandex-Practicum Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Google Data Analytics Capstone
+### Google Data Analytics Projects
 
 - [Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/MicSeit/Google-Professional-Certificates/tree/main/Data%20Analytics/Project%201)
 - [Project 2 Title](http://example.com/)
