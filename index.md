@@ -4,8 +4,9 @@
 
 ### Yandex-Practicum Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[📞Telecom: Finding Clients With Non-Optimal Plans](https://github.com/MicSeit/data_projects/tree/main/yandex_practicum/telecome)
+
+⏲️ Coming soon...
 
 
 
