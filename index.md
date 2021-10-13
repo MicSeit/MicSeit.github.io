@@ -28,8 +28,10 @@
 ---
 ## List of Datacamp online courses
 
-| Course Title | Date | 
-| :---------------------- | :---------------------- |
+| Course Title | Date | Track |
+| :---------------------- | :---------------------- | :---------------------- |
+| 9. Data Analysis in Excel | 10/2021 |
+| 8. Joining Data in SQL | 10/2021 |
 | 7. Practicing Statistics Interview Questions in Python | 10/2021 |
 | 6. Introduction to Statistics in Python | 10/2021 |
 | 5. Bond Valuation and Analysis in Python | 09/2021 |
