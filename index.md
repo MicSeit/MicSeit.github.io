@@ -30,6 +30,7 @@
 
 | Course Title | Date | Track |
 | :---------------------- | :---------------------- | :---------------------- |
+|  |  |  
 | 9. Data Analysis in Excel | 10/2021 |
 | 8. Joining Data in SQL | 10/2021 |
 | 7. Practicing Statistics Interview Questions in Python | 10/2021 |
