@@ -6,14 +6,12 @@
 
 [📞Telecom: Finding Clients With Non-Optimal Plans](https://github.com/MicSeit/data_projects/tree/main/yandex_practicum/telecom)
 
-⏲️ Coming soon...
-
+⏲️ More projects coming soon...
 
 
 ### Google Data Analytics Projects
 
 [🚲 How Does a Bike-Share Navigate Speedy Success?](https://github.com/MicSeit/data_projects/tree/main/google_data_analytics/bike_share)
-
 
 ---
 ## List of completed online courses
