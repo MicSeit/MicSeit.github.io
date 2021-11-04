@@ -28,16 +28,16 @@
 
 | Course Title | Date | Track |
 | :---------------------- | :---------------------- | :---------------------- |
-|  |  |  
-| 9. Data Analysis in Excel | 10/2021 |
-| 8. Joining Data in SQL | 10/2021 |
-| 7. Practicing Statistics Interview Questions in Python | 10/2021 |
-| 6. Introduction to Statistics in Python | 10/2021 |
-| 5. Bond Valuation and Analysis in Python | 09/2021 |
-| 4. Options Trading in Spreadsheets | 09/2021 |
-| 3. Intermediate Python | 03/2021 |
-| 2. Introduction to Python | 02/2021 |
-| 1. Introduction to SQL | 12/2020 |
+| 10. Exploratory Data Analysis in SQL | 11/2021 | SQL for smarter business decisions (1) |  
+| 9. Data Analysis in Excel | 10/2021 | - |
+| 8. Joining Data in SQL | 10/2021 | - |
+| 7. Practicing Statistics Interview Questions in Python | 10/2021 | - |
+| 6. Introduction to Statistics in Python | 10/2021 | - |
+| 5. Bond Valuation and Analysis in Python | 09/2021 | - |
+| 4. Options Trading in Spreadsheets | 09/2021 | - |
+| 3. Intermediate Python | 03/2021 | - |
+| 2. Introduction to Python | 02/2021 | - |
+| 1. Introduction to SQL | 12/2020 | - |
 
 
 
