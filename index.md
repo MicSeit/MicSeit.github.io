@@ -16,12 +16,12 @@
 ---
 ## List of completed online courses
 
-| Course Title | Score | Date | Issuing organization | 
+| Course Title & Programm Info Page | # of Courses | | Score | Completion Date | Issuing Organization & Certificate| 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| 5. [Microsoft SQL Server Professional Certificate - 5 Courses](-) | 20% | 12/2025 | Coursera |
-| 4. [Google Data Analytics Specialization - 8 Courses](https://www.coursera.org/account/accomplishments/specialization/certificate/EMQVCTAN9UXV) | 100% | 09/2021 | Coursera |
-| 3. [Applied Data Science II: Machine Learning & Statistical Analysis](https://www.credly.com/badges/6c8af3f0-6377-4544-b172-37a10cd4ea5c?source=linked_in_profile) | >90% | 06/2021 | WorldQuant |
-| 2. [Applied Data Science I: Scientific Computing & Python](https://www.credly.com/badges/d08abf0a-ac94-4307-8e34-541f049723ca?source=linked_in_profile) | >90% | 03/2021 | WorldQuant |
+| 5. [Microsoft SQL Server Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-sql-server#courses) | 5 Course Series | | 100% | Pending | Coursera |
+| 4. [Google Data Analytics Specialization](https://www.coursera.org/professional-certificates/google-data-analytics) | 8 Course Series | | 100% | 09/2021 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/EMQVCTAN9UXV) |
+| 3. [Applied Data Science II: Machine Learning & Statistical Analysis]() | >90% | 06/2021 | [WorldQuant](https://www.credly.com/badges/6c8af3f0-6377-4544-b172-37a10cd4ea5c?source=linked_in_profile) |
+| 2. [Applied Data Science I: Scientific Computing & Python]() | >90% | 03/2021 | [WorldQuant](https://www.credly.com/badges/d08abf0a-ac94-4307-8e34-541f049723ca?source=linked_in_profile) |
 | 1. [Datacamp Profile](https://www.datacamp.com/profile/MicSeit) |
 
 ---
